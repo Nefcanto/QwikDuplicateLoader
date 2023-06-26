@@ -1,0 +1,88 @@
+{
+    "extends": "./TsConfigBase",
+    "compilerOptions": {
+        "paths": {
+            "Base": [
+                "src/Base/Exports"
+            ],
+            "Contents": [
+                "src/Modules/Contents/Exports"
+            ],
+            "Globalization": [
+                "src/Modules/Globalization/Exports"
+            ],
+            "Forms": [
+                "src/Modules/Forms/Exports"
+            ],
+            "Blog": [
+                "src/Modules/Blog/Exports"
+            ],
+            "Orders": [
+                "src/Modules/Orders/Exports"
+            ],
+            "Navigation": [
+                "src/Modules/Navigation/Exports"
+            ],
+            "Configuration": [
+                "src/Modules/Configuration/Exports"
+            ],
+            "Accounts": [
+                "src/Modules/Accounts/Exports"
+            ],
+            "Taxonomy": [
+                "src/Modules/Taxonomy/Exports"
+            ],
+            "Products": [
+                "src/Modules/Products/Exports"
+            ],
+            "Courses": [
+                "src/Modules/Courses/Exports"
+            ],
+            "Seo": [
+                "src/Modules/Seo/Exports"
+            ],
+            "Shared": [
+                "src/Components/Shared/Exports"
+            ],
+            "Svg": [
+                "src/Components/Svg/Exports"
+            ],
+            "Index": [
+                "src/Components/Index/Exports"
+            ],
+            "OrdersParts": [
+                "src/Components/OrdersParts/Exports"
+            ],
+            "Contact": [
+                "src/Components/Contact/Exports"
+            ],
+            "BlogParts": [
+                "src/Components/BlogParts/Exports"
+            ],
+            "PostParts": [
+                "src/Components/PostParts/Exports"
+            ],
+            "CourseList": [
+                "src/Components/CourseList/Exports"
+            ],
+            "CourseParts": [
+                "src/Components/CourseParts/Exports"
+            ],
+            "CoursesParts": [
+                "src/Components/CoursesParts/Exports"
+            ],
+            "ProductParts": [
+                "src/Components/ProductParts/Exports"
+            ],
+            "ProductsParts": [
+                "src/Components/ProductsParts/Exports"
+            ],
+            "InstructorParts": [
+                "src/Components/InstructorParts/Exports"
+            ],
+            "PageParts": [
+                "src/Components/PageParts/Exports"
+            ],
+        }
+    }
+}
